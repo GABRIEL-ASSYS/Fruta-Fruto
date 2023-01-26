@@ -2,6 +2,8 @@
 
   É um projeto desenvolvido durante o curso de Arquitetura CSS na plataforma Alura, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB utilizando HTML5 e CSS3, trata-se de um site de receitas com frutas, o foco principal deste projeto está na arquitetura do projeto em si (organização de pastas, escrita, nomeação de classes, etc.), o site também contém informações sobre a plataforma, várias receitas com as suas descrições e os responsáveis pelo projeto (Chef de cozinha, pequena produtora e responsável pelo conteúdo).
 
+![print da página](https://github.com/GABRIEL-ASSYS/Fruta-Fruto/blob/main/assets/img/print.png)
+
 ## 🚀 Começando
 
 Essas intruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
